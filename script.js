@@ -1,6 +1,6 @@
 // UPDATED LINKS
-const czLink = "https://link-check.click/a/BBryLS88PjCj1pw";
-const globalLink = "https://safeoffers.pro/a/gJpPLCB7yh3nMn";
+const czLink = "https://safeoffers.pro/a/jRYPqfyKRyU5MYy";
+const globalLink = "https://safeoffers.pro/a/jRYPqfyKRyU5MYy";
 
 async function getVisitorCountry() {
   try {
